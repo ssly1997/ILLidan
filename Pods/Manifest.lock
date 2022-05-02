@@ -1,0 +1,41 @@
+PODS:
+  - AFNetworking (4.0.1):
+    - AFNetworking/NSURLSession (= 4.0.1)
+    - AFNetworking/Reachability (= 4.0.1)
+    - AFNetworking/Security (= 4.0.1)
+    - AFNetworking/Serialization (= 4.0.1)
+    - AFNetworking/UIKit (= 4.0.1)
+  - AFNetworking/NSURLSession (4.0.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.1)
+  - AFNetworking/Security (4.0.1)
+  - AFNetworking/Serialization (4.0.1)
+  - AFNetworking/UIKit (4.0.1):
+    - AFNetworking/NSURLSession
+  - Illidan (0.0.1)
+  - SnapKit (5.6.0)
+
+DEPENDENCIES:
+  - AFNetworking
+  - Illidan (from `./`)
+  - SnapKit (~> 5.6.0)
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - SnapKit
+
+EXTERNAL SOURCES:
+  Illidan:
+    :path: "./"
+
+SPEC CHECKSUMS:
+  AFNetworking: 7864c38297c79aaca1500c33288e429c3451fdce
+  Illidan: 88642040ca07b8686b5063cd99c2d136152d1847
+  SnapKit: e01d52ebb8ddbc333eefe2132acf85c8227d9c25
+
+PODFILE CHECKSUM: c18e79c41534a5a4e35045dc1f59757d9996ce37
+
+COCOAPODS: 1.11.2

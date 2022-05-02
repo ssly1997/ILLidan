@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-IllidanExample/Pods-IllidanExample-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AFNetworking/AFNetworking.framework
+${BUILT_PRODUCTS_DIR}/Illidan/Illidan.framework
+${BUILT_PRODUCTS_DIR}/SnapKit/SnapKit.framework
